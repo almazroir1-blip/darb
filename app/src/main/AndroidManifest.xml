@@ -28,7 +28,6 @@
             android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:resumeWhilePausing="true"
             android:screenOrientation="sensorLandscape"
             android:stateNotNeeded="true"
             android:configChanges="orientation|screenSize|keyboardHidden|uiMode|layoutDirection|locale"
